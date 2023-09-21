@@ -1,0 +1,64 @@
+body{
+    background-color:brown;
+}
+.list1{
+    background-color:rgb(18, 90, 153);color:aqua;
+}
+.list2{
+    background-color:rgb(192, 41, 172);color:rgb(138, 30, 48)
+}
+.list3{
+    background-color:rgb(173, 158, 22);color:rgb(253, 0, 0)
+}
+.list4{
+    background-color:rgb(94, 148, 24);color:rgb(111, 39, 204)
+}
+.list5{
+    background-color:rgb(151, 23, 190);color:rgb(2, 22, 22)
+}
+h2{
+    color:black
+}
+#cpu1{
+    border-style:dashed;
+}
+#cpu2{
+    border-style:dotted;
+}
+#cpu3{
+    border-style:double;
+}
+#cpu4{
+    border-style:groove;
+}
+#cpu5{
+    border-style:hidden;
+}
+.header:hover{
+    color:skyblue;
+}
+.header{
+    font-family:fantasy;
+    font-size:40px;
+    color:red
+}
+img.ryzen1000{
+    width:300px;
+    height:200px;
+}
+img.ryzen2000{
+    width:300px;
+    height:200px;
+}
+img.ryzen3000{
+    width:300px;
+    height:200px;
+}
+img.ryzen7000{
+    width:300px;
+    height:200px;
+}
+img.threadripper{
+    width:300px;
+    height:200px;
+}
